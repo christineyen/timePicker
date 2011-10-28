@@ -215,7 +215,7 @@
     endTime: new Date(0, 0, 0, 23, 30, 0),
     separator: ':',
     show24Hours: true,
-    seletedTime: null
+    selectedTime: null
   };
 
   // Private functions.
